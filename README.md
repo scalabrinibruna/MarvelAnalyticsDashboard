@@ -84,13 +84,13 @@ git clone https://github.com/scalabrinibruna/MarvelAnalyticsDashboard
 2. Instale as dependências:
 
 ```bash
-pip install pandas matplotlib jupyter
+pip install pandas matplotlib
 ```
 
 3. Abra o notebook:
 
 ```bash
-jupyter notebook notebooks/analise_marvel.ipynb
+py -m notebook
 ```
 
 ---
